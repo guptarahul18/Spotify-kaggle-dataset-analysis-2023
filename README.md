@@ -1,2 +1,2 @@
 # Spotify-kaggle-dataset-analysis-2023
-Sale analyzer using Excel
+analyze the generated brief report on 2023 spotify dataset
